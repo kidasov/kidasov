@@ -13,7 +13,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kidasov)](https://github.com/kidasov/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidasov)](https://github.com/kidasov/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kidasov)](https://github.com/kidasov/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kidasov)](https://github.com/kidasov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidasov)](https://github.com/kidasov/github-readme-stats)
 
