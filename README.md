@@ -4,7 +4,7 @@
 
 -🔭 I’m currently working on Mercury Development
 - 🌱 I’m currently learning Vue.js
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
+- ⚙️ I use daily: `React`, `React-Native`,`.js`, `.ts`, `.html`, `.css`
 - 🌱 Learning all about **Frontend Development**
 - 💬 Ask me about Web
 - 📫 How to reach me: kidasov@gmail.com
