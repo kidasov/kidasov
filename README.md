@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**kidasov/kidasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Frontend Developer working in Samara, Russia.
 
-Here are some ideas to get you started:
+-🔭 I’m currently working on Mercury Development
+- 🌱 I’m currently learning Vue.js
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
+- 🌱 Learning all about **Frontend Development**
+- 💬 Ask me about Web
+- 📫 How to reach me: kidasov@gmail.com
+- 😄 Pronouns: bool
+- ⚡ Fun fact: I am a good learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kidasov)](https://github.com/kidasov/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidasov)](https://github.com/kidasov/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kidasov)](https://github.com/kidasov/github-readme-stats)
+
