@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer working in Samara, Russia.
+#### I'm a Frontend Developer working in Belgrade, Serbia.
 
 -🔭 I’m currently working on Mercury Development
 - 🌱 I’m currently learning Vue.js
